@@ -1,5 +1,5 @@
 # StatSei.jl
- Statistical Seismology Tools in Julia
+Statistical Seismology Tools in Julia
 
 
 This repository hosts various Julia scripts for performing statistical seismology tasks. It is currently a work in progress and under development, so please have patience.
