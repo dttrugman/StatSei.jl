@@ -9,7 +9,7 @@ using CSV
 using Printf
 
 # and modules within specific packages
-using Distances: pairwise, Haversine, Euclidean
+using Distances: pairwise, haversine, Haversine, Euclidean
 using Proj: Transformation
 using Interpolations: LinearInterpolation, linear_interpolation
 using GaussianMixtures: GMM
