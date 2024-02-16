@@ -27,6 +27,4 @@ The examples are as follows:
 
 - `nearest_neighbors_example.ipynb`: example implementation of the nearest neighbor seismicity clustering analysis proposed by Zaliapin et al. (2008) and Zaliapin and Ben-Zion (2013).
 
-- `nearest_threshold_example.ipynb`: example workflow to help determine an appropriate nearest neighbor threshold via a catalog shuffling appproach.
-
 - `projection_fractal_example.ipynb`: examples of transformation of seismicity catalogs to cartesian coordinates in order to calculate the spatial fractal dimension.
